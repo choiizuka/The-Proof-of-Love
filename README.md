@@ -114,6 +114,8 @@ Google Docs:(https://docs.google.com/document/d/1toUznlHrZ3xJaHdFFjswqHt2GmJeWc5
 
 📂 関連レポート項目（Related Reports）
 
+🗒️ Scientific Report: The Scientific Proof of Love:(https://github.com/choiizuka/The-Scientific-Proof-of-Love/blob/main/README.md)
+
 📜 Appendix: The Origin of This Report (Background)
 
 How CHOIIZUKA Reached the Ultimate Truth
